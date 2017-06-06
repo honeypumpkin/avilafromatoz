@@ -1,0 +1,231 @@
+
+
+body
+{
+	font-size: 75.5%; 
+	margin: 0;
+	padding: 0;
+	background-color: gray;
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+article
+{
+	margin: 0;
+	border: 1px;
+	color: #767676;
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 1.2em;
+	line-height: 170%;
+	text-transform: uppercase;
+}
+
+#number
+{
+	color: 	#333;
+	font-weight: bold;
+
+}
+
+.crop {
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+	margin: auto;
+	
+}
+
+img.img1 {
+    
+    margin: -150px 0 0 0px;
+	background: transparent url('images/IMG_9950.jpeg') center center no-repeat;
+}
+
+img.img2  {
+	
+    margin: -150px 0 0 0px;
+	background: 
+    transparent url('images/IMG_9111-02.JPG') center center; width: 400px; no-repeat;
+	
+}
+
+img.img3 {
+    
+    margin: -300px 700px 0 -700px;
+	
+}
+
+img.img4 {
+    
+    margin: -150px 500px 0 -200px;
+}
+
+img.img5 {
+    
+    margin: -50px 20px 0 0px;
+	background: 
+    transparent url('images/stampy_toes.gif') center center; width: 400px; no-repeat;
+}
+
+img.img6 {
+    
+    margin: -350px 500px 0 -200px;
+}
+
+img, .body, .insidecontent {
+
+	margin: 0 auto;
+	width: 400;
+	position: relative;
+
+}
+
+#container
+{
+	margin: 0 auto;
+	padding-top: 20px;
+	width: 683px;
+	position: relative;
+	background-color:  #333;
+}
+
+#header
+{
+	margin: 0 auto;
+	width: 640px;
+	height: 250px;
+	background: transparent url('images/avilafromatoz_header_img-01.png') top left no-repeat;
+}
+
+
+.headtitle
+{
+	position: relative;
+	font-family: 'Didact Gothic', sans-serif;	
+	font-size: 30px;
+	color: #FFF;
+	top: 210px;
+	left: 12px;
+	text-shadow: 2px 2px #767676;
+}
+
+#menu
+{
+	margin: 0 20px;
+	height: 29px;
+	padding: 5px 0;
+}
+
+#menu ul
+{
+	margin: 0;
+	padding: 7px;
+	height: 29px;
+}
+
+#menu ul li
+{
+	list-style: none;
+	display: inline;
+}
+
+#menu ul li a:link, #menu ul li a:active, #menu ul li a:visited
+{
+	color: #767676;	
+	padding: 10px 7px 10px 7px;
+	font-size: 1em;
+
+	font-family: 'Didact Gothic', sans-serif;
+	text-decoration: none;
+}
+
+#menu ul li a:hover
+{
+	background-color: #6A7919;
+	color: #FDFDFD;
+}
+
+
+#content
+{
+	min-height: 390px;
+	width: 640px;
+	margin: 0 auto;
+	background-color: #FDFDFD;
+}
+
+#insidecontent
+{
+	float: left;
+	padding-left: 25px;
+	padding-right: 25px;
+	width: auto;
+}
+
+#insidecontent p
+{
+	margin: 0;
+	border: 1px;
+	color: #767676;
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 1.2em;
+	line-height: 170%;
+}
+
+
+
+
+h1
+{
+	margin: 0;
+	font-weight: normal;
+	color: #6A7919;
+	font-size: 2.5em;
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+h2
+{
+	margin: 0;
+	display: inline;
+	position: relative;
+	top: -1.5em;
+	left: 2em;
+	font-size: 1.8em;
+	font-weight: normal;
+	color: #94c258;
+}
+
+h3
+{
+	margin: 0;
+	font-size: 1.5em;
+	font-weight: normal;
+	color: #94C258;
+}
+
+.outline
+{
+	font-size: 120.5%;
+	color:           #767676;
+}
+
+#footer
+{
+	margin: auto;
+	width: 641px;
+	height: 39px;
+	text-align: center;
+
+}
+
+#footer span
+{
+	display: block;
+	position: relative;
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 1.2em;
+	padding: 10px;
+	color:  #767676;
+}
+
